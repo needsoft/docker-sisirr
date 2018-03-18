@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-LABEL maintainer="fzitou <jzitou@gmail.com>"
+LABEL maintainer="no one"
 
 ARG TZ='Asia/Shanghai'
 ARG BRANCH=akkariiin/dev
