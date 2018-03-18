@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-LABEL maintainer="no one"
+LABEL maintainer="noone"
 
 ARG TZ='Asia/Shanghai'
 ARG BRANCH=akkariiin/dev
